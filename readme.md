@@ -4,3 +4,5 @@ This project is an digital attendance system using Face Detection which would he
 
 This project uses Images to train the model which have been collected with the respective consent.
 The project has been developed by _Sarvesh Kulkarni_ and _Sohel Bargir_ under the guidance of _Prof. Trishna Ugale._ 
+
+Conclusion : 
